@@ -15,8 +15,8 @@ a {
 .container3 {
   min-height: 50vh;
   width: 100%;
-    margin-top: 25px;
-   
+  margin-top: 25px;
+
   align-items: center;
   justify-content: center;
 }
@@ -215,7 +215,7 @@ p {
 
 /* Hero Section */
 #hero {
-  background-image: url(./img/hero.jpg);
+  background-image: url(./img/Background.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
